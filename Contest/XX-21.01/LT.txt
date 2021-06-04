@@ -1,0 +1,25 @@
+Chương trình cuộc thi trong khuôn khổ cho phép giớ hạn kiến thức:
+1/ hình học cơ bản
+2/ Toán đại số, giải tích, giải phương trình
+3/ Ad-hoc
+4/ Lý thuyết số học
+5/ Số nguyên tố
+6/ stack - queue
+7/ kỹ thuật sàng nguyên tố
+8/ Thư viện STL
+
+========================|
+Create: Trịnh Xuân Đạt  |
+Ngày tạo: 05/06/2021    |
+========================|
+
+Bài A - Cơ bản toán hình học
+Bài B - Lý Thuyết số
+Bài C - Số nguyên tố
+Bài D - STL
+Bài E - String
+
+-------------------------
+Nội dung nằm trong chương trình đã học, cuộc thi mang tính chất luyện tập.
+
+
