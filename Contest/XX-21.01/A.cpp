@@ -3,8 +3,6 @@ using namespace std;
 
 int main()
 {
-	ifstream cin ("paint.in");
-	ofstream cout ("paint.out");
 	int a,b,c,d , ans=0;
 	cin >> a >> b >> c >> d;
 	ans=(b-a)+(d-c);
