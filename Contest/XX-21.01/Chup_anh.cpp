@@ -3,8 +3,6 @@ using namespace std;
 
 int main()
 {
-    ifstream cin ("photo.in");
-    ofstream cout ("photo.out");
     ios::sync_with_stdio(0);
     cin.tie(0);
     int n;
